@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/spotify-project/static/css/main.7f6571a9.chunk.css",
+    "main.js": "/spotify-project/static/js/main.98821bb0.chunk.js",
+    "main.js.map": "/spotify-project/static/js/main.98821bb0.chunk.js.map",
+    "runtime~main.js": "/spotify-project/static/js/runtime~main.a9ff3e74.js",
+    "runtime~main.js.map": "/spotify-project/static/js/runtime~main.a9ff3e74.js.map",
+    "static/css/2.12eae2ac.chunk.css": "/spotify-project/static/css/2.12eae2ac.chunk.css",
+    "static/js/2.acdc5f95.chunk.js": "/spotify-project/static/js/2.acdc5f95.chunk.js",
+    "static/js/2.acdc5f95.chunk.js.map": "/spotify-project/static/js/2.acdc5f95.chunk.js.map",
+    "index.html": "/spotify-project/index.html",
+    "precache-manifest.eb7eb922341e61ee9872257d49d50ecd.js": "/spotify-project/precache-manifest.eb7eb922341e61ee9872257d49d50ecd.js",
+    "service-worker.js": "/spotify-project/service-worker.js",
+    "static/css/2.12eae2ac.chunk.css.map": "/spotify-project/static/css/2.12eae2ac.chunk.css.map",
+    "static/css/main.7f6571a9.chunk.css.map": "/spotify-project/static/css/main.7f6571a9.chunk.css.map",
+    "static/media/styles.css": "/spotify-project/static/media/Zayn.dd8669df.png"
+  }
+}
